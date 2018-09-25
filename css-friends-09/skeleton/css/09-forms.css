@@ -1,0 +1,30 @@
+/* PHASE 9: Forms */
+/* .content-main {
+  display: flex;
+  justify-content: space-between;
+} */
+.cat-form {
+  /* display: inline-block; */
+  display: flex;
+  width: 45%;
+  justify-content: space-around;
+  overflow: auto;
+
+}
+
+#form-image {
+  float: left;
+  display: block;
+  position: relative;
+}
+
+.input {
+  width: 80%;
+  background: lightgray;
+  display: inline-block;
+  
+}
+
+
+
+
